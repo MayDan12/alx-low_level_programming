@@ -10,7 +10,7 @@ may = 0;
 while (may < 10)
 {
 putchar(may + '0');
-may++
+may++;
 }
 putchar('\n');
 return (0);
