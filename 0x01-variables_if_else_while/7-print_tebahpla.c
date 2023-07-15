@@ -12,7 +12,7 @@ while
 	(MD >= 'a')
 	{
 		putchar(MD);
-		MD++;
+		MD--;
 	}
 putchar('\n');
 return (0);
