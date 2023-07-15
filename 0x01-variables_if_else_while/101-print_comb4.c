@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - three digits combination
- * Return 0 always (excellent)
+ * Return: 0 always (excellent)
  */
 int main(void)
 {
