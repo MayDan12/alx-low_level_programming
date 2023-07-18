@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - i love my alphabet
+ * print_alphabet - i love my alphabet
  * written by dannyboy12
  * Return 0 always (success)
  */
