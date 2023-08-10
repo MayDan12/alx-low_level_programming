@@ -7,11 +7,11 @@
  */
 void *malloc_checked(unsigned int b)
 {
-	void *dan;
+	void *ptr;
 
-	dan = malloc(b);
+	ptr = malloc(b);
 
-	if (dan == NULL)
+	if (ptr == NULL)
 		exit(98);
-	return (dan);
+	return (ptr);
 }
